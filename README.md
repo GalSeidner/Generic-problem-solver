@@ -1,4 +1,4 @@
-## Ex4 - Advanced Programming 1 Course - Generic Problem solver.
+## Part 2/2 - Advanced Programming 1 Course project
 __Authors__
 * Gal Seidner
 * Omer Mokady
